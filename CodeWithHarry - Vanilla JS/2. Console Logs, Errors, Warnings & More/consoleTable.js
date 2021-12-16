@@ -1,0 +1,1 @@
+console.table({name: 'Bhanu', surname: 'Gudheniya', age: 23});

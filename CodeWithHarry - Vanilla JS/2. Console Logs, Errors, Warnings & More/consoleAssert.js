@@ -1,0 +1,1 @@
+console.assert(0 > 1, "Expression is false"); 
