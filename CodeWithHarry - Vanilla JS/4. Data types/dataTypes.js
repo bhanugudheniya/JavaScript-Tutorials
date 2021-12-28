@@ -50,3 +50,4 @@ console.log("Data type is " + (typeof findName));   // return function
 // Date
 let date = new Date();
 console.log("Data type is " + (typeof date));   // return object
+
